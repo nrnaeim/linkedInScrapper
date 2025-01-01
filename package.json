@@ -1,0 +1,15 @@
+{
+  "name": "linkedinscrapper",
+  "version": "1.0.0",
+  "description": "This project is build for education purposes with ethical data scrapping.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.11.1"
+  }
+}
